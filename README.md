@@ -11,7 +11,7 @@
 
 ## 🚀 사용 방법
 
-1. [라이브 데모](https://YOUR-USERNAME.github.io/entropy-paradox-explorer/) 접속
+1. [라이브 데모]([https://YOUR-USERNAME.github.io/entropy-paradox-explorer/](https://dragonhooo.github.io/Calculus/)) 접속
 2. 0과 1로 이루어진 데이터 입력 또는 예시 데이터 선택
 3. "분석하기" 버튼 클릭
 4. 결과 확인 및 슬라이더로 엔트로피 변화 탐구
