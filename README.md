@@ -29,6 +29,3 @@
 - Chart.js
 - Vanilla JavaScript
 
-## 📄 라이선스
-
-MIT License
